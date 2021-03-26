@@ -1,4 +1,4 @@
-name: Postgres Service Example
+name: Postgres Service Examplee
 
 on:
   push:
